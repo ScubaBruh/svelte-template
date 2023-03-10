@@ -15,7 +15,5 @@
         Sign up with Google
       </button>
     {/if}
-    
-    
   </div>
 </div>
